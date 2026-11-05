@@ -371,10 +371,11 @@ Weiterführend:
 
 - [] Der Architektur-Entwurf (eine Seite) liegt vor, mit Annahmen und offenen Fragen. Er deckt mindestens Ausbaustufe 1 ab. Ausbaustufe 2 und die Unterschiede der beiden Szenarien kommen hinzu, soweit sie bekannt sind.
 - [ ] Der Entwurf nennt den Standort der Daten und die Faktoren, die zur Wahl geführt haben.
-- [ ] Der Fork `cas-se-labs` besteht im eigenen Konto.
-- [ ] Die Entwicklungsumgebung startet (Variante A, B oder C).
-- [ ] `bash labs/00-setup/check.sh` meldet «Local environment is ready.».
-- [ ] `az login` ist erfolgt, `ARM_SUBSCRIPTION_ID` ist gesetzt, der Azure-Block von `check.sh` zeigt `[ok]`.
+- [x] Der Fork `cas-se-labs` besteht im eigenen Konto.
+- [x] Die Entwicklungsumgebung startet (Variante A, B oder C).
+- [x] `bash labs/00-setup/check.sh` meldet «Local environment is ready.».
+- [x] `az login` ist erfolgt, `ARM_SUBSCRIPTION_ID` ist gesetzt, der Azure-Block von `check.sh` zeigt `[ok]`.
+- [x] Ein Budget-Alert auf Abo-Ebene besteht.
 
 Bei Problemen genügt eine Mail mit der gewählten Variante (A, B oder C), dem Abschnitt und der letzten Fehlermeldung, vor dem Kurstag.
 
